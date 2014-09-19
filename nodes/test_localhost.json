@@ -1,0 +1,8 @@
+{
+  "name": "localhost",
+  "roles": [
+    "chef",
+    "ruby",
+    "rails"
+  ]
+}
